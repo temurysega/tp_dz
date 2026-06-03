@@ -16,7 +16,14 @@ pip install -r requirements.txt
 # проверка тестов
 pytest 
 
-также все классы рабочие можно импортировать в код 
+# также все классы рабочие можно импортировать в код 
+from ingredient import Ingredient 
+
+from recipe import Recipe 
+
+from dietary_recipe import DietaryRecipe 
+
+from shopping_list import ShoppingList
 
 Автор: Хурматуллин Тимур 
 группа: ББИ2508
