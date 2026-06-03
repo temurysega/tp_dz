@@ -25,5 +25,4 @@ from dietary_recipe import DietaryRecipe
 
 from shopping_list import ShoppingList
 
-Автор: Хурматуллин Тимур 
-группа: ББИ2508
+# Автор: Хурматуллин Тимур, группа: ББИ2508
