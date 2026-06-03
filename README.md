@@ -5,6 +5,7 @@
 
 # клонирование репо  
 git clone https://github.com/temurysega/tp_dz.git 
+
 cd tp_dz 
 
 
